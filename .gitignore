@@ -10,3 +10,5 @@ logs/server*.log
 !logs/server.log
 
 *.env
+
+.DS_Store
